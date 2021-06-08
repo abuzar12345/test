@@ -88,7 +88,7 @@ if (!class_exists('WP_Frontend_Profile')) {
         }
 
         /**
-         * Instantiate the classes.
+         * Instantiate the classes .
          *
          * @return void
          */
