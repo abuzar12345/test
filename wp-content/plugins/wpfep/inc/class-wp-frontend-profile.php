@@ -90,7 +90,7 @@ if (!class_exists('WP_Frontend_Profile')) {
         /**
          * Instantiate the class
          *
-         * @return void
+         * @return void (0)
          */
         public function instantiate()
         {
